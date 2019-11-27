@@ -12,8 +12,8 @@ This is a bridge via Tor to the rest of the Lightning Network. If you connect to
 
 Please connect to `038758ca700b8c4c73d1b86440acb963be93e5b11f9d6f363041be43572c8cbd43@[204:381:4c98:df09:d15b:ab1e:894b:d99e]:9735`
 
-## 9911 - LND Watchtower
+### 9911 - LND Watchtower
 This is available to help monitor the Bitcoin blockchain and serve up justice if your own Lightning Network node is offline.
 
-## 50001 - Electrum
+### 50001 - Electrum
 This is a service allowing Electrum and other light clients to request transaction information via a different method than Bitcoin's P2P layer.
